@@ -1,0 +1,5400 @@
+<TICK NR          0>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         0>    
+
+
+<TICK NR          1>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         1>    
+
+
+<TICK NR          2>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         2>    
+
+
+<TICK NR          3>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         3>    
+
+
+<TICK NR          4>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         4>    
+
+
+<TICK NR          5>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         5>    
+
+
+<TICK NR          6>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         6>    
+
+
+<TICK NR          7>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         7>    
+
+
+<TICK NR          8>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         8>    
+
+
+<TICK NR          9>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         9>    
+
+
+<TICK NR          10>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         10>    
+
+
+<TICK NR          11>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         11>    
+
+
+<TICK NR          12>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         12>    
+
+
+<TICK NR          13>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         13>    
+
+
+<TICK NR          14>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         14>    
+
+
+<TICK NR          15>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         15>    
+
+
+<TICK NR          16>    
+Request goal:     17     
+Serve1 goal:      78      
+Serve2 goal:      -1      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      1      
+</TICK NR         16>    
+
+
+<TICK NR          17>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         17>    
+
+
+<TICK NR          18>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         18>    
+
+
+<TICK NR          19>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         19>    
+
+
+<TICK NR          20>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         20>    
+
+
+<TICK NR          21>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         21>    
+
+
+<TICK NR          22>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           0           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         22>    
+
+
+<TICK NR          23>    
+Request goal:     24     
+Serve1 goal:      78      
+Serve2 goal:      23      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      2      
+</TICK NR         23>    
+
+
+<TICK NR          24>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         24>    
+
+
+<TICK NR          25>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         25>    
+
+
+<TICK NR          26>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         26>    
+
+
+<TICK NR          27>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         27>    
+
+
+<TICK NR          28>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         28>    
+
+
+<TICK NR          29>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         29>    
+
+
+<TICK NR          30>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         30>    
+
+
+<TICK NR          31>    
+Request goal:     32     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       -1       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      3      
+</TICK NR         31>    
+
+
+<TICK NR          32>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         32>    
+
+
+<TICK NR          33>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         33>    
+
+
+<TICK NR          34>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         34>    
+
+
+<TICK NR          35>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         35>    
+
+
+<TICK NR          36>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         36>    
+
+
+<TICK NR          37>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      38      
+Queue goal:       38       
+
+Served:           1           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         37>    
+
+
+<TICK NR          38>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         38>    
+
+
+<TICK NR          39>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         39>    
+
+
+<TICK NR          40>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         40>    
+
+
+<TICK NR          41>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         41>    
+
+
+<TICK NR          42>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         42>    
+
+
+<TICK NR          43>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         43>    
+
+
+<TICK NR          44>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         44>    
+
+
+<TICK NR          45>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         45>    
+
+
+<TICK NR          46>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         46>    
+
+
+<TICK NR          47>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         47>    
+
+
+<TICK NR          48>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         48>    
+
+
+<TICK NR          49>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         49>    
+
+
+<TICK NR          50>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         50>    
+
+
+<TICK NR          51>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           2           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         51>    
+
+
+<TICK NR          52>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         52>    
+
+
+<TICK NR          53>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         53>    
+
+
+<TICK NR          54>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         54>    
+
+
+<TICK NR          55>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         55>    
+
+
+<TICK NR          56>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         56>    
+
+
+<TICK NR          57>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         57>    
+
+
+<TICK NR          58>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         58>    
+
+
+<TICK NR          59>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         59>    
+
+
+<TICK NR          60>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         60>    
+
+
+<TICK NR          61>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         61>    
+
+
+<TICK NR          62>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         62>    
+
+
+<TICK NR          63>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         63>    
+
+
+<TICK NR          64>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         64>    
+
+
+<TICK NR          65>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         65>    
+
+
+<TICK NR          66>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         66>    
+
+
+<TICK NR          67>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         67>    
+
+
+<TICK NR          68>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         68>    
+
+
+<TICK NR          69>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         69>    
+
+
+<TICK NR          70>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         70>    
+
+
+<TICK NR          71>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         71>    
+
+
+<TICK NR          72>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         72>    
+
+
+<TICK NR          73>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         73>    
+
+
+<TICK NR          74>    
+Request goal:     75     
+Serve1 goal:      78      
+Serve2 goal:      52      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      4      
+</TICK NR         74>    
+
+
+<TICK NR          75>    
+Request goal:     76     
+Serve1 goal:      78      
+Serve2 goal:      81      
+Queue goal:       38       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      5      
+</TICK NR         75>    
+
+
+<TICK NR          76>    
+Request goal:     98     
+Serve1 goal:      78      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         76>    
+
+
+<TICK NR          77>    
+Request goal:     98     
+Serve1 goal:      78      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           3           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         77>    
+
+
+<TICK NR          78>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           4           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         78>    
+
+
+<TICK NR          79>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           4           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         79>    
+
+
+<TICK NR          80>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           5           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         80>    
+
+
+<TICK NR          81>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         81>    
+
+
+<TICK NR          82>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         82>    
+
+
+<TICK NR          83>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         83>    
+
+
+<TICK NR          84>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         84>    
+
+
+<TICK NR          85>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         85>    
+
+
+<TICK NR          86>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         86>    
+
+
+<TICK NR          87>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         87>    
+
+
+<TICK NR          88>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         88>    
+
+
+<TICK NR          89>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         89>    
+
+
+<TICK NR          90>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         90>    
+
+
+<TICK NR          91>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         91>    
+
+
+<TICK NR          92>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         92>    
+
+
+<TICK NR          93>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         93>    
+
+
+<TICK NR          94>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         94>    
+
+
+<TICK NR          95>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         95>    
+
+
+<TICK NR          96>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         96>    
+
+
+<TICK NR          97>    
+Request goal:     98     
+Serve1 goal:      80      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      6      
+</TICK NR         97>    
+
+
+<TICK NR          98>    
+Request goal:     99     
+Serve1 goal:      134      
+Serve2 goal:      81      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      7      
+</TICK NR         98>    
+
+
+<TICK NR          99>    
+Request goal:     103     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      8      
+</TICK NR         99>    
+
+
+<TICK NR          100>    
+Request goal:     103     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      8      
+</TICK NR         100>    
+
+
+<TICK NR          101>    
+Request goal:     103     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      8      
+</TICK NR         101>    
+
+
+<TICK NR          102>    
+Request goal:     103     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       78       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      8      
+</TICK NR         102>    
+
+
+<TICK NR          103>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         103>    
+
+
+<TICK NR          104>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         104>    
+
+
+<TICK NR          105>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         105>    
+
+
+<TICK NR          106>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         106>    
+
+
+<TICK NR          107>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         107>    
+
+
+<TICK NR          108>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         108>    
+
+
+<TICK NR          109>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         109>    
+
+
+<TICK NR          110>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         110>    
+
+
+<TICK NR          111>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         111>    
+
+
+<TICK NR          112>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         112>    
+
+
+<TICK NR          113>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         113>    
+
+
+<TICK NR          114>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         114>    
+
+
+<TICK NR          115>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         115>    
+
+
+<TICK NR          116>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         116>    
+
+
+<TICK NR          117>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         117>    
+
+
+<TICK NR          118>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         118>    
+
+
+<TICK NR          119>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         119>    
+
+
+<TICK NR          120>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         120>    
+
+
+<TICK NR          121>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         121>    
+
+
+<TICK NR          122>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         122>    
+
+
+<TICK NR          123>    
+Request goal:     124     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          0          
+Machine_cnt:      9      
+</TICK NR         123>    
+
+
+<TICK NR          124>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         124>    
+
+
+<TICK NR          125>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         125>    
+
+
+<TICK NR          126>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         126>    
+
+
+<TICK NR          127>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         127>    
+
+
+<TICK NR          128>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         128>    
+
+
+<TICK NR          129>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         129>    
+
+
+<TICK NR          130>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         130>    
+
+
+<TICK NR          131>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         131>    
+
+
+<TICK NR          132>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         132>    
+
+
+<TICK NR          133>    
+Request goal:     135     
+Serve1 goal:      134      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           6           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         133>    
+
+
+<TICK NR          134>    
+Request goal:     135     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       134       
+
+Served:           7           
+Refused:          1          
+Machine_cnt:      10      
+</TICK NR         134>    
+
+
+<TICK NR          135>    
+Request goal:     137     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          1          
+Machine_cnt:      11      
+</TICK NR         135>    
+
+
+<TICK NR          136>    
+Request goal:     137     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          1          
+Machine_cnt:      11      
+</TICK NR         136>    
+
+
+<TICK NR          137>    
+Request goal:     139     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          2          
+Machine_cnt:      12      
+</TICK NR         137>    
+
+
+<TICK NR          138>    
+Request goal:     139     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          2          
+Machine_cnt:      12      
+</TICK NR         138>    
+
+
+<TICK NR          139>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         139>    
+
+
+<TICK NR          140>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         140>    
+
+
+<TICK NR          141>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         141>    
+
+
+<TICK NR          142>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         142>    
+
+
+<TICK NR          143>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         143>    
+
+
+<TICK NR          144>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         144>    
+
+
+<TICK NR          145>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         145>    
+
+
+<TICK NR          146>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         146>    
+
+
+<TICK NR          147>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         147>    
+
+
+<TICK NR          148>    
+Request goal:     149     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          3          
+Machine_cnt:      13      
+</TICK NR         148>    
+
+
+<TICK NR          149>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         149>    
+
+
+<TICK NR          150>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         150>    
+
+
+<TICK NR          151>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         151>    
+
+
+<TICK NR          152>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         152>    
+
+
+<TICK NR          153>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         153>    
+
+
+<TICK NR          154>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         154>    
+
+
+<TICK NR          155>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         155>    
+
+
+<TICK NR          156>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         156>    
+
+
+<TICK NR          157>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         157>    
+
+
+<TICK NR          158>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         158>    
+
+
+<TICK NR          159>    
+Request goal:     160     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          4          
+Machine_cnt:      14      
+</TICK NR         159>    
+
+
+<TICK NR          160>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         160>    
+
+
+<TICK NR          161>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         161>    
+
+
+<TICK NR          162>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         162>    
+
+
+<TICK NR          163>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         163>    
+
+
+<TICK NR          164>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         164>    
+
+
+<TICK NR          165>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         165>    
+
+
+<TICK NR          166>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         166>    
+
+
+<TICK NR          167>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         167>    
+
+
+<TICK NR          168>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         168>    
+
+
+<TICK NR          169>    
+Request goal:     181     
+Serve1 goal:      170      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           7           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         169>    
+
+
+<TICK NR          170>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         170>    
+
+
+<TICK NR          171>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         171>    
+
+
+<TICK NR          172>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         172>    
+
+
+<TICK NR          173>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         173>    
+
+
+<TICK NR          174>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         174>    
+
+
+<TICK NR          175>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           8           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         175>    
+
+
+<TICK NR          176>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         176>    
+
+
+<TICK NR          177>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         177>    
+
+
+<TICK NR          178>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         178>    
+
+
+<TICK NR          179>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         179>    
+
+
+<TICK NR          180>    
+Request goal:     181     
+Serve1 goal:      219      
+Serve2 goal:      176      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      15      
+</TICK NR         180>    
+
+
+<TICK NR          181>    
+Request goal:     184     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      16      
+</TICK NR         181>    
+
+
+<TICK NR          182>    
+Request goal:     184     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      16      
+</TICK NR         182>    
+
+
+<TICK NR          183>    
+Request goal:     184     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       170       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      16      
+</TICK NR         183>    
+
+
+<TICK NR          184>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         184>    
+
+
+<TICK NR          185>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         185>    
+
+
+<TICK NR          186>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         186>    
+
+
+<TICK NR          187>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         187>    
+
+
+<TICK NR          188>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         188>    
+
+
+<TICK NR          189>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         189>    
+
+
+<TICK NR          190>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      191      
+Queue goal:       191       
+
+Served:           9           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         190>    
+
+
+<TICK NR          191>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         191>    
+
+
+<TICK NR          192>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         192>    
+
+
+<TICK NR          193>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         193>    
+
+
+<TICK NR          194>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         194>    
+
+
+<TICK NR          195>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         195>    
+
+
+<TICK NR          196>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         196>    
+
+
+<TICK NR          197>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         197>    
+
+
+<TICK NR          198>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         198>    
+
+
+<TICK NR          199>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         199>    
+
+
+<TICK NR          200>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         200>    
+
+
+<TICK NR          201>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         201>    
+
+
+<TICK NR          202>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         202>    
+
+
+<TICK NR          203>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         203>    
+
+
+<TICK NR          204>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           10           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         204>    
+
+
+<TICK NR          205>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         205>    
+
+
+<TICK NR          206>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         206>    
+
+
+<TICK NR          207>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         207>    
+
+
+<TICK NR          208>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         208>    
+
+
+<TICK NR          209>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         209>    
+
+
+<TICK NR          210>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         210>    
+
+
+<TICK NR          211>    
+Request goal:     212     
+Serve1 goal:      219      
+Serve2 goal:      205      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      17      
+</TICK NR         211>    
+
+
+<TICK NR          212>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         212>    
+
+
+<TICK NR          213>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         213>    
+
+
+<TICK NR          214>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           11           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         214>    
+
+
+<TICK NR          215>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           12           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         215>    
+
+
+<TICK NR          216>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           12           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         216>    
+
+
+<TICK NR          217>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           12           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         217>    
+
+
+<TICK NR          218>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           12           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         218>    
+
+
+<TICK NR          219>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         219>    
+
+
+<TICK NR          220>    
+Request goal:     221     
+Serve1 goal:      219      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      18      
+</TICK NR         220>    
+
+
+<TICK NR          221>    
+Request goal:     224     
+Serve1 goal:      231      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      19      
+</TICK NR         221>    
+
+
+<TICK NR          222>    
+Request goal:     224     
+Serve1 goal:      231      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      19      
+</TICK NR         222>    
+
+
+<TICK NR          223>    
+Request goal:     224     
+Serve1 goal:      231      
+Serve2 goal:      215      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      19      
+</TICK NR         223>    
+
+
+<TICK NR          224>    
+Request goal:     229     
+Serve1 goal:      231      
+Serve2 goal:      225      
+Queue goal:       191       
+
+Served:           13           
+Refused:          5          
+Machine_cnt:      20      
+</TICK NR         224>    
+
+
+<TICK NR          225>    
+Request goal:     229     
+Serve1 goal:      231      
+Serve2 goal:      225      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      20      
+</TICK NR         225>    
+
+
+<TICK NR          226>    
+Request goal:     229     
+Serve1 goal:      231      
+Serve2 goal:      225      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      20      
+</TICK NR         226>    
+
+
+<TICK NR          227>    
+Request goal:     229     
+Serve1 goal:      231      
+Serve2 goal:      225      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      20      
+</TICK NR         227>    
+
+
+<TICK NR          228>    
+Request goal:     229     
+Serve1 goal:      231      
+Serve2 goal:      225      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      20      
+</TICK NR         228>    
+
+
+<TICK NR          229>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         229>    
+
+
+<TICK NR          230>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           14           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         230>    
+
+
+<TICK NR          231>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         231>    
+
+
+<TICK NR          232>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         232>    
+
+
+<TICK NR          233>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         233>    
+
+
+<TICK NR          234>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         234>    
+
+
+<TICK NR          235>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         235>    
+
+
+<TICK NR          236>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         236>    
+
+
+<TICK NR          237>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         237>    
+
+
+<TICK NR          238>    
+Request goal:     239     
+Serve1 goal:      231      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      21      
+</TICK NR         238>    
+
+
+<TICK NR          239>    
+Request goal:     241     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      22      
+</TICK NR         239>    
+
+
+<TICK NR          240>    
+Request goal:     241     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       191       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      22      
+</TICK NR         240>    
+
+
+<TICK NR          241>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         241>    
+
+
+<TICK NR          242>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         242>    
+
+
+<TICK NR          243>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         243>    
+
+
+<TICK NR          244>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         244>    
+
+
+<TICK NR          245>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         245>    
+
+
+<TICK NR          246>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         246>    
+
+
+<TICK NR          247>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         247>    
+
+
+<TICK NR          248>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         248>    
+
+
+<TICK NR          249>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         249>    
+
+
+<TICK NR          250>    
+Request goal:     251     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          5          
+Machine_cnt:      23      
+</TICK NR         250>    
+
+
+<TICK NR          251>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         251>    
+
+
+<TICK NR          252>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         252>    
+
+
+<TICK NR          253>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         253>    
+
+
+<TICK NR          254>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         254>    
+
+
+<TICK NR          255>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         255>    
+
+
+<TICK NR          256>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      257      
+Queue goal:       257       
+
+Served:           15           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         256>    
+
+
+<TICK NR          257>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         257>    
+
+
+<TICK NR          258>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         258>    
+
+
+<TICK NR          259>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         259>    
+
+
+<TICK NR          260>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         260>    
+
+
+<TICK NR          261>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         261>    
+
+
+<TICK NR          262>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         262>    
+
+
+<TICK NR          263>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         263>    
+
+
+<TICK NR          264>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         264>    
+
+
+<TICK NR          265>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         265>    
+
+
+<TICK NR          266>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         266>    
+
+
+<TICK NR          267>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         267>    
+
+
+<TICK NR          268>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         268>    
+
+
+<TICK NR          269>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         269>    
+
+
+<TICK NR          270>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         270>    
+
+
+<TICK NR          271>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         271>    
+
+
+<TICK NR          272>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         272>    
+
+
+<TICK NR          273>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         273>    
+
+
+<TICK NR          274>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         274>    
+
+
+<TICK NR          275>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         275>    
+
+
+<TICK NR          276>    
+Request goal:     277     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       257       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      24      
+</TICK NR         276>    
+
+
+<TICK NR          277>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       279       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         277>    
+
+
+<TICK NR          278>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      279      
+Queue goal:       279       
+
+Served:           16           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         278>    
+
+
+<TICK NR          279>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         279>    
+
+
+<TICK NR          280>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         280>    
+
+
+<TICK NR          281>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         281>    
+
+
+<TICK NR          282>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         282>    
+
+
+<TICK NR          283>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         283>    
+
+
+<TICK NR          284>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         284>    
+
+
+<TICK NR          285>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         285>    
+
+
+<TICK NR          286>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         286>    
+
+
+<TICK NR          287>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         287>    
+
+
+<TICK NR          288>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         288>    
+
+
+<TICK NR          289>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         289>    
+
+
+<TICK NR          290>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         290>    
+
+
+<TICK NR          291>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         291>    
+
+
+<TICK NR          292>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         292>    
+
+
+<TICK NR          293>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           17           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         293>    
+
+
+<TICK NR          294>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         294>    
+
+
+<TICK NR          295>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         295>    
+
+
+<TICK NR          296>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         296>    
+
+
+<TICK NR          297>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         297>    
+
+
+<TICK NR          298>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         298>    
+
+
+<TICK NR          299>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         299>    
+
+
+<TICK NR          300>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         300>    
+
+
+<TICK NR          301>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         301>    
+
+
+<TICK NR          302>    
+Request goal:     303     
+Serve1 goal:      294      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           18           
+Refused:          6          
+Machine_cnt:      25      
+</TICK NR         302>    
+
+
+<TICK NR          303>    
+Request goal:     305     
+Serve1 goal:      304      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           19           
+Refused:          6          
+Machine_cnt:      26      
+</TICK NR         303>    
+
+
+<TICK NR          304>    
+Request goal:     305     
+Serve1 goal:      304      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      26      
+</TICK NR         304>    
+
+
+<TICK NR          305>    
+Request goal:     307     
+Serve1 goal:      316      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      27      
+</TICK NR         305>    
+
+
+<TICK NR          306>    
+Request goal:     307     
+Serve1 goal:      316      
+Serve2 goal:      303      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      27      
+</TICK NR         306>    
+
+
+<TICK NR          307>    
+Request goal:     311     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      28      
+</TICK NR         307>    
+
+
+<TICK NR          308>    
+Request goal:     311     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      28      
+</TICK NR         308>    
+
+
+<TICK NR          309>    
+Request goal:     311     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      28      
+</TICK NR         309>    
+
+
+<TICK NR          310>    
+Request goal:     311     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       279       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      28      
+</TICK NR         310>    
+
+
+<TICK NR          311>    
+Request goal:     328     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         311>    
+
+
+<TICK NR          312>    
+Request goal:     328     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         312>    
+
+
+<TICK NR          313>    
+Request goal:     328     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         313>    
+
+
+<TICK NR          314>    
+Request goal:     328     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         314>    
+
+
+<TICK NR          315>    
+Request goal:     328     
+Serve1 goal:      316      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           20           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         315>    
+
+
+<TICK NR          316>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         316>    
+
+
+<TICK NR          317>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         317>    
+
+
+<TICK NR          318>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         318>    
+
+
+<TICK NR          319>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         319>    
+
+
+<TICK NR          320>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         320>    
+
+
+<TICK NR          321>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         321>    
+
+
+<TICK NR          322>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         322>    
+
+
+<TICK NR          323>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         323>    
+
+
+<TICK NR          324>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         324>    
+
+
+<TICK NR          325>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         325>    
+
+
+<TICK NR          326>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           21           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         326>    
+
+
+<TICK NR          327>    
+Request goal:     328     
+Serve1 goal:      332      
+Serve2 goal:      327      
+Queue goal:       316       
+
+Served:           22           
+Refused:          6          
+Machine_cnt:      29      
+</TICK NR         327>    
+
+
+<TICK NR          328>    
+Request goal:     331     
+Serve1 goal:      332      
+Serve2 goal:      383      
+Queue goal:       316       
+
+Served:           22           
+Refused:          6          
+Machine_cnt:      30      
+</TICK NR         328>    
+
+
+<TICK NR          329>    
+Request goal:     331     
+Serve1 goal:      332      
+Serve2 goal:      383      
+Queue goal:       316       
+
+Served:           22           
+Refused:          6          
+Machine_cnt:      30      
+</TICK NR         329>    
+
+
+<TICK NR          330>    
+Request goal:     331     
+Serve1 goal:      332      
+Serve2 goal:      383      
+Queue goal:       316       
+
+Served:           22           
+Refused:          6          
+Machine_cnt:      30      
+</TICK NR         330>    
+
+
+<TICK NR          331>    
+Request goal:     369     
+Serve1 goal:      332      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           22           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         331>    
+
+
+<TICK NR          332>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           23           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         332>    
+
+
+<TICK NR          333>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           23           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         333>    
+
+
+<TICK NR          334>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           23           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         334>    
+
+
+<TICK NR          335>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           23           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         335>    
+
+
+<TICK NR          336>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           23           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         336>    
+
+
+<TICK NR          337>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         337>    
+
+
+<TICK NR          338>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         338>    
+
+
+<TICK NR          339>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         339>    
+
+
+<TICK NR          340>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         340>    
+
+
+<TICK NR          341>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         341>    
+
+
+<TICK NR          342>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         342>    
+
+
+<TICK NR          343>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         343>    
+
+
+<TICK NR          344>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         344>    
+
+
+<TICK NR          345>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         345>    
+
+
+<TICK NR          346>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         346>    
+
+
+<TICK NR          347>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         347>    
+
+
+<TICK NR          348>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         348>    
+
+
+<TICK NR          349>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         349>    
+
+
+<TICK NR          350>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         350>    
+
+
+<TICK NR          351>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         351>    
+
+
+<TICK NR          352>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         352>    
+
+
+<TICK NR          353>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         353>    
+
+
+<TICK NR          354>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         354>    
+
+
+<TICK NR          355>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         355>    
+
+
+<TICK NR          356>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         356>    
+
+
+<TICK NR          357>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         357>    
+
+
+<TICK NR          358>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         358>    
+
+
+<TICK NR          359>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         359>    
+
+
+<TICK NR          360>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         360>    
+
+
+<TICK NR          361>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         361>    
+
+
+<TICK NR          362>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         362>    
+
+
+<TICK NR          363>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         363>    
+
+
+<TICK NR          364>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         364>    
+
+
+<TICK NR          365>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         365>    
+
+
+<TICK NR          366>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         366>    
+
+
+<TICK NR          367>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         367>    
+
+
+<TICK NR          368>    
+Request goal:     369     
+Serve1 goal:      337      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      31      
+</TICK NR         368>    
+
+
+<TICK NR          369>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         369>    
+
+
+<TICK NR          370>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         370>    
+
+
+<TICK NR          371>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         371>    
+
+
+<TICK NR          372>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         372>    
+
+
+<TICK NR          373>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         373>    
+
+
+<TICK NR          374>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         374>    
+
+
+<TICK NR          375>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           24           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         375>    
+
+
+<TICK NR          376>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         376>    
+
+
+<TICK NR          377>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         377>    
+
+
+<TICK NR          378>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         378>    
+
+
+<TICK NR          379>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         379>    
+
+
+<TICK NR          380>    
+Request goal:     381     
+Serve1 goal:      376      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      32      
+</TICK NR         380>    
+
+
+<TICK NR          381>    
+Request goal:     384     
+Serve1 goal:      382      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           25           
+Refused:          6          
+Machine_cnt:      33      
+</TICK NR         381>    
+
+
+<TICK NR          382>    
+Request goal:     384     
+Serve1 goal:      382      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           26           
+Refused:          6          
+Machine_cnt:      33      
+</TICK NR         382>    
+
+
+<TICK NR          383>    
+Request goal:     384     
+Serve1 goal:      382      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      33      
+</TICK NR         383>    
+
+
+<TICK NR          384>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         384>    
+
+
+<TICK NR          385>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         385>    
+
+
+<TICK NR          386>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         386>    
+
+
+<TICK NR          387>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         387>    
+
+
+<TICK NR          388>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         388>    
+
+
+<TICK NR          389>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         389>    
+
+
+<TICK NR          390>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         390>    
+
+
+<TICK NR          391>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         391>    
+
+
+<TICK NR          392>    
+Request goal:     393     
+Serve1 goal:      404      
+Serve2 goal:      383      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      34      
+</TICK NR         392>    
+
+
+<TICK NR          393>    
+Request goal:     395     
+Serve1 goal:      404      
+Serve2 goal:      398      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      35      
+</TICK NR         393>    
+
+
+<TICK NR          394>    
+Request goal:     395     
+Serve1 goal:      404      
+Serve2 goal:      398      
+Queue goal:       332       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      35      
+</TICK NR         394>    
+
+
+<TICK NR          395>    
+Request goal:     399     
+Serve1 goal:      404      
+Serve2 goal:      398      
+Queue goal:       398       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      36      
+</TICK NR         395>    
+
+
+<TICK NR          396>    
+Request goal:     399     
+Serve1 goal:      404      
+Serve2 goal:      398      
+Queue goal:       398       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      36      
+</TICK NR         396>    
+
+
+<TICK NR          397>    
+Request goal:     399     
+Serve1 goal:      404      
+Serve2 goal:      398      
+Queue goal:       398       
+
+Served:           27           
+Refused:          6          
+Machine_cnt:      36      
+</TICK NR         397>    
+
+
+<TICK NR          398>    
+Request goal:     399     
+Serve1 goal:      404      
+Serve2 goal:      402      
+Queue goal:       398       
+
+Served:           28           
+Refused:          6          
+Machine_cnt:      36      
+</TICK NR         398>    
+
+
+<TICK NR          399>    
+Request goal:     403     
+Serve1 goal:      404      
+Serve2 goal:      402      
+Queue goal:       402       
+
+Served:           28           
+Refused:          6          
+Machine_cnt:      37      
+</TICK NR         399>    
+
+
+<TICK NR          400>    
+Request goal:     403     
+Serve1 goal:      404      
+Serve2 goal:      402      
+Queue goal:       402       
+
+Served:           28           
+Refused:          6          
+Machine_cnt:      37      
+</TICK NR         400>    
+
+
+<TICK NR          401>    
+Request goal:     403     
+Serve1 goal:      404      
+Serve2 goal:      402      
+Queue goal:       402       
+
+Served:           28           
+Refused:          6          
+Machine_cnt:      37      
+</TICK NR         401>    
+
+
+<TICK NR          402>    
+Request goal:     403     
+Serve1 goal:      404      
+Serve2 goal:      423      
+Queue goal:       402       
+
+Served:           29           
+Refused:          6          
+Machine_cnt:      37      
+</TICK NR         402>    
+
+
+<TICK NR          403>    
+Request goal:     406     
+Serve1 goal:      404      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           29           
+Refused:          6          
+Machine_cnt:      38      
+</TICK NR         403>    
+
+
+<TICK NR          404>    
+Request goal:     406     
+Serve1 goal:      405      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           30           
+Refused:          6          
+Machine_cnt:      38      
+</TICK NR         404>    
+
+
+<TICK NR          405>    
+Request goal:     406     
+Serve1 goal:      405      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      38      
+</TICK NR         405>    
+
+
+<TICK NR          406>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         406>    
+
+
+<TICK NR          407>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         407>    
+
+
+<TICK NR          408>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         408>    
+
+
+<TICK NR          409>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         409>    
+
+
+<TICK NR          410>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         410>    
+
+
+<TICK NR          411>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         411>    
+
+
+<TICK NR          412>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         412>    
+
+
+<TICK NR          413>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         413>    
+
+
+<TICK NR          414>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           31           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         414>    
+
+
+<TICK NR          415>    
+Request goal:     416     
+Serve1 goal:      415      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      39      
+</TICK NR         415>    
+
+
+<TICK NR          416>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         416>    
+
+
+<TICK NR          417>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         417>    
+
+
+<TICK NR          418>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         418>    
+
+
+<TICK NR          419>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         419>    
+
+
+<TICK NR          420>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         420>    
+
+
+<TICK NR          421>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         421>    
+
+
+<TICK NR          422>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           32           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         422>    
+
+
+<TICK NR          423>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         423>    
+
+
+<TICK NR          424>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         424>    
+
+
+<TICK NR          425>    
+Request goal:     426     
+Serve1 goal:      431      
+Serve2 goal:      423      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      40      
+</TICK NR         425>    
+
+
+<TICK NR          426>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         426>    
+
+
+<TICK NR          427>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         427>    
+
+
+<TICK NR          428>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         428>    
+
+
+<TICK NR          429>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         429>    
+
+
+<TICK NR          430>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           33           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         430>    
+
+
+<TICK NR          431>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         431>    
+
+
+<TICK NR          432>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         432>    
+
+
+<TICK NR          433>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         433>    
+
+
+<TICK NR          434>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         434>    
+
+
+<TICK NR          435>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         435>    
+
+
+<TICK NR          436>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         436>    
+
+
+<TICK NR          437>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         437>    
+
+
+<TICK NR          438>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         438>    
+
+
+<TICK NR          439>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         439>    
+
+
+<TICK NR          440>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         440>    
+
+
+<TICK NR          441>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         441>    
+
+
+<TICK NR          442>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         442>    
+
+
+<TICK NR          443>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         443>    
+
+
+<TICK NR          444>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         444>    
+
+
+<TICK NR          445>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         445>    
+
+
+<TICK NR          446>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         446>    
+
+
+<TICK NR          447>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         447>    
+
+
+<TICK NR          448>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         448>    
+
+
+<TICK NR          449>    
+Request goal:     451     
+Serve1 goal:      431      
+Serve2 goal:      504      
+Queue goal:       404       
+
+Served:           34           
+Refused:          6          
+Machine_cnt:      41      
+</TICK NR         449>    
+
+
