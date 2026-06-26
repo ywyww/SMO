@@ -103,9 +103,6 @@ class SMO:
             # obrabotka dannikh
             self.served += 1
             self.is_active_serve1 = False
-
-            self.serve1_data.append( (self.current_time, TICK) )
-
             self.served_data.append( (self.current_time, TICK) )
             ...
 
@@ -113,9 +110,6 @@ class SMO:
             # obrabotka dannikh
             self.served += 1
             self.is_active_serve2 = False
-
-            self.serve2_data.append( (self.current_time, TICK) )
-
             self.served_data.append( (self.current_time, TICK) )
             ...
         
@@ -125,12 +119,16 @@ class SMO:
                 self.prev_serve1_goal = self.serve1_goal
                 self.serve1_goal = self.current_time + self.get_tau_with_restrictions(0, M1, SCALE, True)
                 self.is_active_serve1 = True
+
+                self.serve1_data.append( (self.current_time, self.serve1_goal) )
                 ...
     
             elif (not self.is_active_serve2):
                 self.prev_serve2_goal = self.serve2_goal
                 self.serve2_goal = self.current_time + self.get_tau_with_restrictions(0, M2, SCALE, True)
                 self.is_active_serve2 = True
+
+                self.serve2_data.append( (self.current_time, self.serve2_goal) )
                 ...
 
             else:
@@ -152,8 +150,7 @@ class SMO:
                 self.serve1_goal = self.current_time + self.get_tau_with_restrictions(0, M1, SCALE, True)
                 self.is_active_serve1 = True
 
-                #self.serve1_data.append( (self.current_time, self.serve1_goal - self.current_time) )
-                self.serve1_data.append( (self.current_time, TICK) )
+                self.serve1_data.append( (self.current_time, self.serve1_goal) )
                 ...
             
             elif (not self.is_active_serve2):            # here go in serve 2
@@ -161,8 +158,7 @@ class SMO:
                 self.serve2_goal = self.current_time + self.get_tau_with_restrictions(0, M2, SCALE, True)
                 self.is_active_serve2 = True
                 
-                #self.serve2_data.append( (self.current_time, self.serve2_goal - self.current_time) )
-                self.serve2_data.append( (self.current_time, TICK) )
+                self.serve2_data.append( (self.current_time, self.serve2_goal) )
                 ...
 
             elif (not self.is_active_queue):             # here the place in queue
@@ -170,8 +166,7 @@ class SMO:
                 self.queue_goal = min(self.serve1_goal, self.serve2_goal)
                 self.is_active_queue = True
 
-                #self.queue_data.append( (self.current_time, self.queue_goal - self.current_time) )
-                self.queue_data.append( (self.current_time, TICK) )
+                self.queue_data.append( (self.current_time, self.queue_goal) )
 
             else:
                 self.refused += 1
@@ -295,20 +290,29 @@ class SMO:
 def draw():
     fig, [pool_request, pool_serve1, pool_serve2, pool_queue, pool_served, pool_refused] = plt.subplots(6, 1)
 
-    inc = (0.2, 2)
+    inc = (0,2)
+    inc2 = (0,-2)
     pool_request.broken_barh(smo.request_data, inc)
-    pool_serve1.broken_barh(smo.serve1_data, inc)
-    pool_serve2.broken_barh(smo.serve2_data, inc)
-    pool_queue.broken_barh(smo.queue_data, inc)
+    
+    pool_serve1.broken_barh(list(map(lambda x: (x[0], TICK), smo.serve1_data)), inc)
+    pool_serve1.broken_barh(list(map(lambda x: (x[1], TICK), smo.serve1_data)), inc2, color="tab:orange")
+
+    pool_serve2.broken_barh(list(map(lambda x: (x[0], TICK), smo.serve2_data)), inc)
+    pool_serve2.broken_barh(list(map(lambda x: (x[1], TICK), smo.serve2_data)), inc2, color="tab:orange")
+
+    pool_queue.broken_barh(list(map(lambda x: (x[0], TICK), smo.queue_data)), inc)
+    pool_queue.broken_barh(list(map(lambda x: (x[1], TICK), smo.queue_data)), inc2, color="tab:orange")
+
     pool_served.broken_barh(smo.served_data, inc)
     pool_refused.broken_barh(smo.refused_data, inc)
-
+    
     print(f"Data requested:{ list(map(lambda a: a[0], smo.request_data)) }")
-    print(f"Data serve1:{    list(map(lambda a: a[0], smo.serve1_data)) }")
-    print(f"Data serve2:{    list(map(lambda a: a[0], smo.serve2_data)) }")
-    print(f"Data queue:{     list(map(lambda a: a[0], smo.queue_data)) }")
-    print(f"Data served:{    list(map(lambda a: a[0], smo.served_data)) }")
-    print(f"Data refused:{   list(map(lambda a: a[0], smo.refused_data)) }")
+    print(f"Data serve1:   { smo.serve1_data }")
+    print(f"Data serve2:   { smo.serve2_data }")
+    print(f"Data queue:    { smo.queue_data }")
+    print(f"Data served:   { list(map(lambda a: a[0], smo.served_data)) }")
+    print(f"Data refused:  { list(map(lambda a: a[0], smo.refused_data)) }")
+
 
     pool_request    .grid(linewidth = 1)
     pool_serve1     .grid(linewidth = 1)
@@ -317,10 +321,12 @@ def draw():
     pool_served     .grid(linewidth = 1)
     pool_refused    .grid(linewidth = 1)
 
+
     plt.xlim(0, 450)
     plt.ylim(0, 1)
 
     plt.show()
+    
 
 
 if __name__ == "__main__":
